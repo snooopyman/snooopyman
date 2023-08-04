@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I am Snoopyman! 👋
+
+```javascript
+const iOSDeveloper = {
+  name: "Snoopyman",
+  pronouns: "he/him",
+  code: ["Swift", "Objective-C"],
+  tools: ["Xcode", "Cocoapods", "Alamofire", "UIKit"],
+  interests: ["iOS Development", "App Development", "SwiftUI", "Open Source"]
+};
+
 
 <!--
 **snooopyman/snooopyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
