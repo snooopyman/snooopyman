@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👽, I'm Snooopyman</h1>
+<h1 align="center>Hi👽,</h1>
+<h1 align="center">I'm Snooopyman</h1>
 <h3 align="center">A passionate iOS developer from Spain</h3>
 
 - 🌱 I’m currently learning **UIKit**
