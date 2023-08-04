@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Snooopyman</h1>
 <h3 align="center">A passionate iOS developer from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snooopyman" alt="snooopyman" /></a> </p>
-
 - 🌱 I’m currently learning **UIKit**
 
 <h3 align="left">Connect with me:</h3>
