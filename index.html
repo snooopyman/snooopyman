@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hi there, I am Snoopyman! 👋</title>
+  <style>
+    /* Agrega estilos para el texto */
+    .animated-text {
+      font-size: 24px;
+      font-weight: bold;
+      text-align: center;
+      padding: 20px;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 1px solid;
+      width: 20ch; /* Ancho del texto inicial */
+      animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
+    }
+
+    /* Agrega la animación de escribir el texto */
+    @keyframes typing {
+      from {
+        width: 0;
+      }
+      to {
+        width: 20ch; /* Ancho del texto final */
+      }
+    }
+
+    /* Agrega la animación del cursor parpadeante */
+    @keyframes blink-caret {
+      from,
+      to {
+        border-color: transparent;
+      }
+      50% {
+        border-color: black;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="animated-text">Hi there, I am Snoopyman!</div>
+  <script>
+    // Descripción del desarrollador
+    const description = `iOS Developer 📱
+      - Swift, Objective-C
+      - Xcode, Cocoapods, Alamofire, UIKit
+      - Interested in iOS Development, App Development, SwiftUI, Open Source`;
+
+    // Función para agregar la descripción letra por letra
+    function typeDescription(text, element) {
+      let charIndex = 0;
+      const interval = setInterval(() => {
+        element.innerHTML += text[charIndex];
+        charIndex++;
+        if (charIndex === text.length) {
+          clearInterval(interval);
+        }
+      }, 50); // Velocidad de escritura (milisegundos por letra)
+    }
+
+    const descriptionElement = document.createElement("div");
+    document.body.appendChild(descriptionElement);
+
+    // Llamada a la función para mostrar la descripción
+    typeDescription(description, descriptionElement);
+  </script>
+</body>
+</html>
