@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Snooopyman</h1>
 <h3 align="center">A passionate iOS developer from Spain</h3>
-<img align="right" alt="coding" witdh="400" src="https://app.gemoo.com/share/image-annotation/546030857375608832?codeId=PY4XKrZ89nJYV&origin=imageurlgenerator">
+<img align="right" alt="Coding" witdh="400" src="https://app.gemoo.com/share/image-annotation/546030857375608832?codeId=PY4XKrZ89nJYV&origin=imageurlgenerator">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
