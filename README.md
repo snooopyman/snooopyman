@@ -1,8 +1,13 @@
-<h1 align="center">Hi👽, I'm Snooopyman</h1>
+<h1 align="center">Hi 👋, I'm Snooopyman</h1>
 <h3 align="center">A passionate iOS developer from Spain</h3>
 
+- 🔭 I’m currently working on [Rick and Morty App](https://github.com/snooopyman/RickAndMorty)
+
 - 🌱 I’m currently learning **UIKit**
-- 👨🏽‍💻 Full time job at Nomasystems
+
+- 👨🏽‍💻 Full time job at **Nomasystems**
+
+- ⚡ Fun fact **Streamer on Twitch** (sometimes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
