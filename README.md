@@ -7,7 +7,7 @@
 
 - 👨🏽‍💻 Full time job at **Nomasystems**
 
-- ⚡ Fun fact **Streamer on Twitch** (sometimes)
+- ⚡ Fun fact **Streamer on Twitch (sometimes)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
