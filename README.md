@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on private repositories
 
-- 🌱 I’m currently learning **UIKit**
+- 🌱 I’m currently learning **UIKit and SwiftUI**
 
 - 👨🏽‍💻 Full time job at **Nomasystems**
 
