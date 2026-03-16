@@ -1,32 +1,46 @@
-<h1 align="center">Hi 👽, I'm Snooopyman</h1>
-<h3 align="center">A passionate iOS developer from Spain</h3>
+  <h1 align="center">Armando Cáceres</h1>                                                                                 
+  <h3 align="center">Senior Apple Platforms Engineer · iOS / iPadOS / macOS · Spain (Remote)</h3>                       
+                                                                                                                          
+  <p align="center">                                                                                                    
+    <a href="https://armando-caceres.vercel.app">Portfolio</a> ·
+    <a href="https://www.linkedin.com/in/armando-caceres">LinkedIn</a> ·
+    <a href="mailto:armando.caceres.dev@gmail.com">Email</a>
+  </p>
 
-- 🔭 I’m currently working on private repositories
+  ---
 
-- 🌱 Expanding my skills in **UIKit and SwiftUI**
+  ### About me
 
-- ⚡I also develop in **JavaScript**
+  iOS engineer with 3+ years shipping production apps. I've worked on [Pull&Bear](https://www.pullandbear.com) (Inditex) —
+   350K daily active users, 4.7★ on the App Store — and I'm now co-founder and lead iOS engineer at **Hitbosss**, a social
+   competition platform built from scratch.
 
-- 👨🏽‍💻 Full time job at **Nomasystems**
+  I also build indie apps: **Ladushki**, a Russian learning app with SwiftUI, SwiftData, CloudKit sync and StoreKit 2
+  monetization, running natively on iPhone, iPad and Mac.
 
-- ⚡ Fun fact **Streamer on Twitch (sometimes)**
+  I care about performance, accessibility and clean architecture.
 
-- 📫 How to reach me **armando.caceres.dev@gmail.com**
+  ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/armando-caceres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armando-caceres" height="30" width="40" /></a>
-<a href="https://instagram.com/snooopyman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snooopyman" height="30" width="40" /></a>
-</p>
+  ### Tech
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-</p>
+  **Core:** Swift · SwiftUI · UIKit
+  **Architecture:** MVVM · Clean Architecture · Coordinator
+  **Apple Frameworks:** SwiftData · CloudKit · StoreKit 2 · Swift Concurrency (async/await)
+  **Tooling:** Xcode · App Store Connect · Instruments
+  **Accessibility:** VoiceOver · Dynamic Type
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snooopyman&show_icons=true&locale=en&layout=compact" alt="snooopyman" /></p>
+  ---
+
+  ### Currently
+
+  - 🚀 Co-Founder & Lead iOS Engineer at **Hitbosss**
+  - 📱 Indie developer — **Ladushki** (Russian learning app)
+  - 🌍 Open to remote **Senior iOS / Apple Platforms** roles in Europe or the US
+
+  ---
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snooopyman&show_icons=true&locale=en&layout=co
+  mpact&theme=dark&hide_border=true" alt="Top languages" />
+  </p>
