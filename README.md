@@ -29,14 +29,14 @@ Co-founder and lead iOS engineer at **[Hitbosss](https://apps.apple.com/es/app/h
   
 ### Tech
 
-**Core:** Swift 6.2 · SwiftUI · UIKit
-**Architecture:** MVVM · Clean Architecture · Coordinator
-**Apple Frameworks:** SwiftData · CloudKit · StoreKit 2 · HealthKit · ActivityKit · Swift Concurrency
-**Backend:** Node.js · Supabase · PostgreSQL · AWS S3
-**Tooling:** Xcode · Instruments · App Store Connect
+**Core:** Swift 6.2 · SwiftUI · UIKit<br>
+**Architecture:** MVVM · Clean Architecture · Coordinator<br>
+**Apple Frameworks:** SwiftData · CloudKit · StoreKit 2 · HealthKit · ActivityKit · Swift Concurrency<br>
+**Backend:** Node.js · Supabase · PostgreSQL · AWS S3<br>
+**Tooling:** Xcode · Instruments · App Store Connect<br>
 **Accessibility:** VoiceOver · Dynamic Type
 
-  ---
+---
 
 ### Currently
 
