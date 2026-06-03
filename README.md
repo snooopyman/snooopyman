@@ -40,6 +40,6 @@ Co-founder and lead iOS engineer at **[HitBosss](https://apps.apple.com/es/app/h
 
 ### Currently
 
-  - 🚀 Co-Founder & Lead iOS Engineer at **Hitbosss**
+  - 🚀 Co-Founder & Lead iOS Engineer at **HiBbosss**
   - 📱 Indie developer — **Ladushki** · **Forma**
   - 🌍 Open to remote **iOS / Apple Platforms** roles in Europe, UK or the US
