@@ -1,5 +1,5 @@
 <h1 align="center">Armando Cáceres</h1>                                                                                 
-<h3 align="center">Senior Apple Platforms Engineer · iOS / iPadOS / macOS · Spain (Remote)</h3>                       
+<h3 align="center">Apple Platforms Engineer · iOS / iPadOS / macOS · Spain (Remote)</h3>                       
                                                                                                                           
 <p align="center">                                                                                                    
   <a href="https://armando-caceres.vercel.app">Portfolio</a> ·
@@ -11,9 +11,9 @@
 
 ### About me
 
-iOS engineer with 3+ years shipping production apps at scale. At Nomasystems I worked on the [Pull&Bear](https://apps.apple.com/es/app/pull-bear/id388614277) app (Inditex) — 350K+ daily active users, 4.7★, 194K+ reviews, 99.53% crash-free. Led the UIKit → SwiftUI migration of the app's most complex screen.
+iOS engineer with 3+ years shipping production apps at scale. At Nomasystems I worked on the [Pull&Bear](https://apps.apple.com/es/app/pull-bear/id388614277) app (Inditex): 350K+ daily active users, 4.7★, 194K+ reviews, 99.53% crash-free. Led the UIKit → SwiftUI migration of the app's most complex screen.
 
-Co-founder and lead iOS engineer at **[HitBosss](https://apps.apple.com/es/app/hitbosss/id6749860332)** — a competitive fitness platform built entirely solo: SwiftUI + Clean Architecture on iOS, Node.js + Supabase + AWS S3 on the backend. Zero memory leaks, profiled with Instruments.
+Co-founder and lead iOS engineer at **[HitBosss](https://apps.apple.com/es/app/hitbosss/id6749860332)**: a competitive fitness platform built entirely solo: SwiftUI + Clean Architecture on iOS, Node.js + Supabase + AWS S3 on the backend. Zero memory leaks, profiled with Instruments.
 
  ---
 
@@ -21,9 +21,9 @@ Co-founder and lead iOS engineer at **[HitBosss](https://apps.apple.com/es/app/h
 
 | | App | Description |
 |---|---|---|
-| 📱 | **[HitBosss](https://apps.apple.com/es/app/hitbosss/id6749860332)** | Strength ranking social app — co-founded, full iOS + backend built solo |
-| 🇷🇺 | **Ladushki** | Russian learning app — iPhone, iPad, Mac. StoreKit 2 freemium, 62 unit tests |
-| 💪 | **Forma** | Fitness app — training, body tracking & nutrition. Offline-first, CloudKit sync |
+| 📱 | **[HitBosss](https://apps.apple.com/es/app/hitbosss/id6749860332)** | Strength ranking social app. co-founded, full iOS + backend built solo |
+| 🇷🇺 | **Ladushki** | Russian learning app: iPhone, iPad, Mac. StoreKit 2 freemium, 62 unit tests |
+| 💪 | **Forma** | Fitness app: training, body tracking & nutrition. Offline-first, CloudKit sync |
 
 ---
   
@@ -40,6 +40,7 @@ Co-founder and lead iOS engineer at **[HitBosss](https://apps.apple.com/es/app/h
 
 ### Currently
 
+  - 📺 tvOS Engineer at **Foxxum**
   - 🚀 Co-Founder & Lead iOS Engineer at **HiBbosss**
-  - 📱 Indie developer — **Ladushki** · **Forma**
+  - 📱 Indie developer: **Ladushki** · **Forma**
   - 🌍 Open to remote **iOS / Apple Platforms** roles in Europe, UK or the US
